@@ -1,1 +1,2 @@
-# [2024](wiki/)
+# [2024](https://github.com/maciejjankowski/2024/wiki)
+
